@@ -1,0 +1,23 @@
+Rental 1
+Contract Number: A000
+Rental Time: 0 hours and 0 minutes
+Equipment: Other...
+Price: 0
+
+Rental 2
+Contract Number: lmn01
+Rental Time: 0 hours and 30 minutes
+Equipment: Kayak
+Price: 67
+
+Rental 3
+Contract Number: lmn02
+Rental Time: 1 hours and 10 minutes
+Equipment: Canoe
+Price: 89
+
+Rental 4
+Contract Number: lmn03
+Rental Time: 1 hours and 0 minutes
+Equipment: Beach Chair
+Price: 42

@@ -1,0 +1,18 @@
+# Library and SDK folders (like the ones in your screenshot)
+**/javafx-sdk-*/
+**/node_modules/
+**/bin/
+**/out/
+
+# Compiled Java files
+*.class
+*.jar
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# IDE specific files (VS Code, IntelliJ, etc.)
+.vscode/
+.idea/
+*.iml
