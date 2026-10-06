@@ -113,9 +113,9 @@ public class MathJavaFX extends Application {
                 if (plus.isSelected() == true) {
                     operator = "+";
                 }
-                System.out.println(operator + "something");
+                //System.out.println(operator + "something");
                 if (operator.equals("+")) {
-                    System.out.println("+");
+                    //System.out.println("+");
                     //code for addition
                     int op1;
                     int op2;
@@ -191,7 +191,7 @@ public class MathJavaFX extends Application {
                 btn.setVisible(false);
                 replayButton.setVisible(true);
                 quitButton.setVisible(true);
-                System.out.println("hello");
+                //System.out.println("hello");
             }
         });
 
